@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Check-Klas-Website", "Check-Klas-Website\Check-Klas-Website.csproj", "{EDDC2805-3836-4314-A96A-D0CB3E438EC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDDC2805-3836-4314-A96A-D0CB3E438EC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDC2805-3836-4314-A96A-D0CB3E438EC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDC2805-3836-4314-A96A-D0CB3E438EC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDC2805-3836-4314-A96A-D0CB3E438EC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F143F99-BD50-4D55-B967-C22D160184D4}
+	EndGlobalSection
+EndGlobal
